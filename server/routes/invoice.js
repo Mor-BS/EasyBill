@@ -6,4 +6,3 @@ router.post('/', createInvoice);
 router.get('/', getInvoices);
 
 module.exports = router;
-//sdsdasdadad
